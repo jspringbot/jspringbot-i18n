@@ -29,7 +29,7 @@
   </parent>
 
   <artifactId>jspringbot-i18n</artifactId>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.4</version>
 
   <packaging>jar</packaging>
   <name>jspringbot-i18n</name>
